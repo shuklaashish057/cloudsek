@@ -1,0 +1,6 @@
+NUMBER1 = "number_1"
+NUMBER2 = "number_2"
+TOTAL = "total"
+ID = "id"
+ID_PK = "id_pk"
+MESSAGE = "Hi from test API"
